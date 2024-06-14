@@ -1,0 +1,48 @@
+h1{
+    background-color: lawngreen;
+    font-size: 44px;
+    padding-left:40%;
+}
+td{
+    width: 55px;
+    height: 55px;
+    font-size: 15px;
+    text-align: center;
+}
+
+table{
+    margin-top: 44px;
+}
+.orange{
+    background-color: orange;
+}
+.li-blue{
+    background-color: lightblue;
+}
+.da-blue{
+    background-color: rgb(151, 151, 202);
+}
+.purple{
+    background-color: plum;
+}
+.yellow{
+    background-color: yellow;
+}
+.light{
+    background-color: cornsilk;
+}
+.li-green{
+    background-color: lightgreen;
+}
+.white{
+    background-color: whitesmoke;
+}
+.tomato{
+    background-color: salmon;
+}
+.brown{
+    background-color: darkgoldenrod;
+}
+.skin{
+    background-color: bisque;
+}
